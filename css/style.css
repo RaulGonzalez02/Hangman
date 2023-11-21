@@ -1,0 +1,32 @@
+body {
+  background-image: url("../imagenes/fondo7.png");
+}
+
+.cabecera {
+  font-variant: small-caps;
+  font-weight: 400;
+  font-size: 4em;
+  color: red;
+  font-variant: small-caps;
+}
+
+.tamanio-botones {
+  height: 40px;
+  width: 40px;
+}
+
+.palabra {
+  text-align: center;
+  letter-spacing: 6px;
+  color: green;
+}
+
+.img {
+  height: 250px;
+}
+
+
+.intentos, .palabra{
+  font-size: 2rem;
+  font-variant: small-caps;
+}
